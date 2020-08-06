@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/insulting-room/static/css/main.615da19e.chunk.css",
+    "main.js": "/insulting-room/static/js/main.8efbdb73.chunk.js",
+    "main.js.map": "/insulting-room/static/js/main.8efbdb73.chunk.js.map",
+    "runtime-main.js": "/insulting-room/static/js/runtime-main.b2861821.js",
+    "runtime-main.js.map": "/insulting-room/static/js/runtime-main.b2861821.js.map",
+    "static/css/2.e7b3b84c.chunk.css": "/insulting-room/static/css/2.e7b3b84c.chunk.css",
+    "static/js/2.a1d32eab.chunk.js": "/insulting-room/static/js/2.a1d32eab.chunk.js",
+    "static/js/2.a1d32eab.chunk.js.map": "/insulting-room/static/js/2.a1d32eab.chunk.js.map",
+    "index.html": "/insulting-room/index.html",
+    "precache-manifest.8c0c6c9f408d27044a18c5fc7ae66521.js": "/insulting-room/precache-manifest.8c0c6c9f408d27044a18c5fc7ae66521.js",
+    "service-worker.js": "/insulting-room/service-worker.js",
+    "static/css/2.e7b3b84c.chunk.css.map": "/insulting-room/static/css/2.e7b3b84c.chunk.css.map",
+    "static/css/main.615da19e.chunk.css.map": "/insulting-room/static/css/main.615da19e.chunk.css.map",
+    "static/js/2.a1d32eab.chunk.js.LICENSE.txt": "/insulting-room/static/js/2.a1d32eab.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b2861821.js",
+    "static/css/2.e7b3b84c.chunk.css",
+    "static/js/2.a1d32eab.chunk.js",
+    "static/css/main.615da19e.chunk.css",
+    "static/js/main.8efbdb73.chunk.js"
+  ]
+}
