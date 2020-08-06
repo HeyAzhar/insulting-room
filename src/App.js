@@ -27,7 +27,7 @@ function App() {
   const [user, setUser] = useState(null);
 
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <UserContext.Provider value={{ user, setUser }}>
         <ToastContainer />
         <Switch>
