@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/insulting-room/precache-manifest.8c0c6c9f408d27044a18c5fc7ae66521.js"
+  "/insulting-room/precache-manifest.fedfafddd6c5745efc79028b561079b5.js"
 );
 
 self.addEventListener('message', (event) => {

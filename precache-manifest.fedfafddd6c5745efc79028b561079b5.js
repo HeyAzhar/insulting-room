@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "26644dcc8a4610488e2231e4e50bce35",
+    "revision": "2c74a9c22a87661a8a2faed39e855172",
     "url": "/insulting-room/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/insulting-room/static/css/2.e7b3b84c.chunk.css"
   },
   {
-    "revision": "b58ddcdb5eb59b704411",
+    "revision": "eafaa9f5c0f8e9c200a2",
     "url": "/insulting-room/static/css/main.615da19e.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/insulting-room/static/js/2.a1d32eab.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b58ddcdb5eb59b704411",
-    "url": "/insulting-room/static/js/main.8efbdb73.chunk.js"
+    "revision": "eafaa9f5c0f8e9c200a2",
+    "url": "/insulting-room/static/js/main.e2c04879.chunk.js"
   },
   {
     "revision": "46f54bf6e535ee5b5498",
