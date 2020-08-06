@@ -61,7 +61,7 @@ const Signin = () => {
                 type="password"
                 name="password"
                 id="password"
-                placeholder="Random Password"
+                placeholder="Random password"
                 value={password}
                 onChange={(e) => setPassword(e.target.value)}
               />
